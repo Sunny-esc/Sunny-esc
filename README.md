@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm sunny</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate full stack developer with expertise in front-end and back-end . Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dd/d8/ff/ddd8ff292a30b9ad856856aa920d1081.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny-esc&label=Profile%20views&color=0e75b6&style=flat" alt="sunny" /> </p>
 
